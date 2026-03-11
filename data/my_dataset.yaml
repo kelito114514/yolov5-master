@@ -1,0 +1,10 @@
+train: C:\Users\12793\Desktop\yolo_dataset\images\train
+val: C:\Users\12793\Desktop\yolo_dataset\images\val
+test:
+
+# Classes
+names:
+  0: helmet
+  1: head
+
+
